@@ -1,4 +1,4 @@
-# Packetizercontrol 
+# PacketizerControl 
 The **PacketizerControl** module for [Wowza Streaming Engine™ media server software](https://www.wowza.com/products/streaming-engine) allows you to control which streams get packetized for HTTP streaming.
 
 ## Prerequisites
