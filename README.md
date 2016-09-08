@@ -14,7 +14,7 @@ Specify which stream(s) you'd like to allow or deny from being packetized by lev
 
 Wowza Media Systems™ provides developers with a platform to create streaming applications and solutions. See [Wowza Developer Tools](https://www.wowza.com/resources/developers) to learn more about our APIs and SDK.
 
-To use the compiled version of this module, see [How to control which streams get packetized for HTTP streaming](https://www.wowza.com/forums/content.php?476-How-to-control-which-streams-get-packetized-for-HTTP-streaming-(PacketizerControl)).
+To use the compiled version of this module, see [How to control which streams get packetized for HTTP streaming (PacketizerControl)](https://www.wowza.com/forums/content.php?476-How-to-control-which-streams-get-packetized-for-HTTP-streaming-(PacketizerControl)).
 
 ## Contact
 [Wowza Media Systems, LLC](https://www.wowza.com/contact)
